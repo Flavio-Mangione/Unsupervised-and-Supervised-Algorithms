@@ -1,3 +1,22 @@
+
+# Obesity Study Using Logistic Regression and Clustering
+
+## Project Description
+This project aims to analyze obesity levels in individuals using machine learning techniques, specifically through logistic regression and clustering. The data includes demographic information, lifestyle choices, and medical measurements, aiming to predict obesity categories (`NObeyesdad`).
+
+## Techniques Used
+- **Logistic Regression**: Applied to predict different obesity categories based on the characteristics of individuals;
+- **Clustering**: Used to identify natural groupings in the dataset, offering insights into obesity patterns;
+- **Random Forest**: An ensemble model that uses multiple decision trees to improve the robustness and accuracy of classification;
+- **Support Vector Machine (SVM)**: A powerful classifier that uses linear and non-linear separation techniques to distinguish between different categories.
+
+## How to Use
+1. Data preparation: Cleaning and transforming the initial data;
+2. Logistic Regression Model: Training the model for the classification of obesity categories;
+3. Applying Clustering: Performing clustering analysis to discover groupings and patterns;
+4. Random Forest Model: Training and validation of the Random Forest model to improve classification;
+5. Support Vector Machine (SVM): Implementation and optimization of SVM model for effective classification of obesity categories.
+
 # Studio sull'Obesità Utilizzando Regressione Logistica e Clustering
 
 ## Descrizione del Progetto
@@ -17,22 +36,5 @@ Questo progetto mira ad analizzare i livelli di obesità in individui utilizzand
 5. Support Vector Machine (SVM): Implementazione e ottimizzazione del modello SVM per una classificazione efficace delle categorie di obesità.
 
 
-# Obesity Study Using Logistic Regression and Clustering
-
-## Project Description
-This project aims to analyze obesity levels in individuals using machine learning techniques, specifically through logistic regression and clustering. The data includes demographic information, lifestyle choices, and medical measurements, aiming to predict obesity categories (`NObeyesdad`).
-
-## Techniques Used
-- **Logistic Regression**: Applied to predict different obesity categories based on the characteristics of individuals;
-- **Clustering**: Used to identify natural groupings in the dataset, offering insights into obesity patterns;
-- **Random Forest**: An ensemble model that uses multiple decision trees to improve the robustness and accuracy of classification;
-- **Support Vector Machine (SVM)**: A powerful classifier that uses linear and non-linear separation techniques to distinguish between different categories.
-
-## How to Use
-1. Data preparation: Cleaning and transforming the initial data;
-2. Logistic Regression Model: Training the model for the classification of obesity categories;
-3. Applying Clustering: Performing clustering analysis to discover groupings and patterns;
-4. Random Forest Model: Training and validation of the Random Forest model to improve classification;
-5. Support Vector Machine (SVM): Implementation and optimization of SVM model for effective classification of obesity categories.
 
 
