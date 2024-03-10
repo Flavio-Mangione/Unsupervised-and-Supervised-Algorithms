@@ -1,5 +1,5 @@
 
-# Obesity Study Using Logistic Regression and Clustering
+# Obesity Study Using Unsupervised and Supervised Algorithms
 
 ## Project Description
 This project aims to analyze obesity levels in individuals using machine learning techniques, specifically through logistic regression and clustering. The data includes demographic information, lifestyle choices, and medical measurements, aiming to predict obesity categories (`NObeyesdad`).
